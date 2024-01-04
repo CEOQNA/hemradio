@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Radio <!DOCTYPE html>
 <html>
 <head>
     <title>Hem Radio Blog</title>
@@ -42,7 +42,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Podcast & Article Website</p>
+        <p>© 2024 Hem Radio Blog</p>
     </footer>
 </body>
 </html>
