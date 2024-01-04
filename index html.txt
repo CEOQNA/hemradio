@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hem Radio Blog</title>
+    <style>
+        /* Add your CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Hem Radio Podcast</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#podcasts">Podcasts</a></li>
+            <li><a href="#articles">Articles</a></li>
+        </ul>
+    </nav>
+
+    <section id="podcasts">
+        <h2>Our Podcasts</h2>
+        <!-- List your podcasts here. For example: -->
+        <article>
+            <h3>Podcast 1</h3>
+            <audio controls>
+                <source src="podcast1.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </article>
+        <!-- Add more podcasts as needed -->
+    </section>
+
+    <section id="articles">
+        <h2>Our Articles</h2>
+        <!-- List your articles here. For example: -->
+        <article>
+            <h3>Article 1</h3>
+            <p>This is the content of the first article...</p>
+        </article>
+        <!-- Add more articles as needed -->
+    </section>
+
+    <footer>
+        <p>© 2024 Podcast & Article Website</p>
+    </footer>
+</body>
+</html>
